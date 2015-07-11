@@ -4,7 +4,7 @@
   <title><![CDATA[Svenski's blog]]></title>
   <link href="http://svenski.github.io/atom.xml" rel="self"/>
   <link href="http://svenski.github.io/"/>
-  <updated>2015-07-11T18:26:40+01:00</updated>
+  <updated>2015-07-11T18:29:14+01:00</updated>
   <id>http://svenski.github.io/</id>
   <author>
     <name><![CDATA[Svenski]]></name>
@@ -25,7 +25,7 @@
 ggplot(BOD, aes(Time, demand)) + geom_line()
 </code></pre>
 
-<p><img src="images/2015-07-11-Show-some-R-code-and-charts/figure/plotMe-1.png" alt="plot of chunk plotMe" /></p>
+<p><img src="http://svenski.github.io/images/2015-07-11-Show-some-R-code-and-charts/figure/plotMe-1.png" alt="plot of chunk plotMe" /></p>
 
 <blockquote><p>Quote: All models are wrong but some are useful</p></blockquote>
 ]]></content>
