@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | Svenski's blog]]></title>
   <link href="http://svenski.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://svenski.github.io/"/>
-  <updated>2014-11-23T22:17:08+00:00</updated>
+  <updated>2015-07-11T18:09:34+01:00</updated>
   <id>http://svenski.github.io/</id>
   <author>
     <name><![CDATA[Svenski]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Show Some R Code and Charts]]></title>
+    <link href="http://svenski.github.io/blog/2015/07/11/Show-some-R-code-and-charts/"/>
+    <updated>2015-07-11T00:00:00+01:00</updated>
+    <id>http://svenski.github.io/blog/2015/07/11/Show-some-R-code-and-charts</id>
+    <content type="html"><![CDATA[<h2>R-Code and charts</h2>
+
+<pre><code>library(ggplot2)
+
+ggplot(BOD, aes(Time, demand)) + geom_line()
+</code></pre>
+
+<p><img src="images/2015-07-11-Show-some-R-code-and-charts/figure/plotMe-1.png" alt="plot of chunk plotMe" /></p>
+
+<blockquote><p>Quote: All models are wrong but some are useful</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Testing Upload to Octopress]]></title>
