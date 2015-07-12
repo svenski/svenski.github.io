@@ -4,7 +4,7 @@
   <title><![CDATA[Svenski's blog]]></title>
   <link href="http://svenski.github.io/atom.xml" rel="self"/>
   <link href="http://svenski.github.io/"/>
-  <updated>2015-07-11T18:29:14+01:00</updated>
+  <updated>2015-07-12T17:15:08+01:00</updated>
   <id>http://svenski.github.io/</id>
   <author>
     <name><![CDATA[Svenski]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Show Some R Code and Charts]]></title>
+    <title type="html"><![CDATA[Show some R code and charts]]></title>
     <link href="http://svenski.github.io/blog/2015/07/11/Show-some-R-code-and-charts/"/>
     <updated>2015-07-11T00:00:00+01:00</updated>
     <id>http://svenski.github.io/blog/2015/07/11/Show-some-R-code-and-charts</id>
@@ -32,7 +32,7 @@ ggplot(BOD, aes(Time, demand)) + geom_line()
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Trying a Plain Vanilla Post]]></title>
+    <title type="html"><![CDATA[Trying a plain vanilla post]]></title>
     <link href="http://svenski.github.io/blog/2014/11/16/trying-a-plain-vanilla-post/"/>
     <updated>2014-11-16T18:34:28+00:00</updated>
     <id>http://svenski.github.io/blog/2014/11/16/trying-a-plain-vanilla-post</id>
@@ -94,7 +94,7 @@ ggplot(BOD, aes(Time, demand)) + geom_line()
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Testing Upload to Octopress]]></title>
+    <title type="html"><![CDATA[Testing upload to octopress]]></title>
     <link href="http://svenski.github.io/blog/2014/04/17/Testing-out-octopress-blog/"/>
     <updated>2014-04-17T02:00:00+01:00</updated>
     <id>http://svenski.github.io/blog/2014/04/17/Testing-out-octopress-blog</id>
